@@ -1,28 +1,30 @@
 ## Hi, I'm Fiqri Ridho 👋
 
-Informatics student at Universitas Muhammadiyah Malang with a strong interest in software development and problem solving.
+Informatics student at Universitas Muhammadiyah Malang focused on software development and practical system implementation.
 
-### 💻 Technical Focus
+### 💻 Technical Skills
 
-- Object-Oriented Programming (Java)
+- Java (Object-Oriented Programming)
+- Basic PHP & Laravel
+- HTML, CSS, Bootstrap
 - Git & Version Control
 
-### 📚 Academic Projects
+### 📚 Projects
 
-This GitHub profile contains:
+This GitHub profile includes:
 
 - Java OOP practice projects (Encapsulation, Inheritance, Polymorphism)
-- Simple CRUD-based applications
-- Basic data structure implementations
+- CRUD-based web applications
+- Laravel-based cashier system (UKK 2024 project)
 - Collaborative repository contributions
 
-### 🚀 Currently Improving
+### 🚀 Currently Developing
 
-- Code structure and clean coding practices
-- Logical reasoning and problem solving
-- Software development fundamentals
+- Clean code practices
+- Backend development fundamentals
+- Database design and optimization
 
 ### 📫 Contact
 
 - Email: fiqrirdf@gmail.com
-- LinkedIn: www.linkedin.com/in/fiqrirdf
+- LinkedIn: https://www.linkedin.com/in/fiqrirdf
