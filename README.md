@@ -5,8 +5,6 @@ Informatics student at Universitas Muhammadiyah Malang with a strong interest in
 ### 💻 Technical Focus
 
 - Object-Oriented Programming (Java)
-- Basic Data Structures (Stack, Queue, etc.)
-- Algorithmic Thinking
 - Git & Version Control
 
 ### 📚 Academic Projects
